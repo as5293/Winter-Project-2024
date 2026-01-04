@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="student-task-manager.png" alt="Student Task Manager" width="900">
+</p>
 # Student Task Manager
 
 This is a simple web-based Student Task Manager application built using HTML, CSS, and JavaScript.
@@ -20,5 +23,6 @@ This is a simple web-based Student Task Manager application built using HTML, CS
 
 ## Project Repository
 Winter-Project-2024
+
 
 
